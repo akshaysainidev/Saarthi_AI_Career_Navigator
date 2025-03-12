@@ -30,28 +30,26 @@ The **AI-Powered Career Navigator** is designed for **WsCube’s Platform** to h
 ## Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/ai-career-mapping.git
+git clone https://github.com/Omsh888/Saarthi-AI-Career-Navigator
 
 # Navigate to the project directory
-cd ai-career-mapping
+cd Saarthi-AI-Career-Navigator
 
-# Install dependencies (if applicable)
-npm install   # For Node.js backend
-yarn install  # Alternative package manager
+# Install dependencies
+flutter pub get
+
 ```
 
 ## Usage
 ```bash
-# Start the application
-npm start  # Runs the development server
-yarn start # Alternative command
+# Start the application and open Flutter Emulator
+flutter run
 ```
 
 ## Tech Stack
 - **Frontend:** Flutter 
 - **Backend:** Dart
 - **AI Integration:** Machine Learning model from Open Router for Career Recommendation
-- **Database:** MongoDB / Firebase (if applicable)
 
 ## Contact
 For any inquiries, reach out to:
