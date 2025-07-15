@@ -30,7 +30,7 @@ The **AI-Powered Career Navigator** is designed for **WsCube’s Platform** to h
 ## Installation & Setup
 ```bash
 # Clone the repository
-git clone https://github.com/Omsh888/Saarthi-AI-Career-Navigator
+git clone https://github.com/akshaysainidev/Saarthi_AI_Career_Navigator
 
 # Navigate to the project directory
 cd Saarthi-AI-Career-Navigator
