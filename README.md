@@ -53,5 +53,5 @@ flutter run
 
 ## Contact
 For any inquiries, reach out to:
-📧 Email: lakshyasainidev@gmail.com  
-🔗 GitHub: [omsh888](https://github.com/omsh888)
+📧 Email: akshaysainibtechcse22-26@liet.in  
+🔗 GitHub: [Akshay Saini](https://github.com/akshaysainidev)
